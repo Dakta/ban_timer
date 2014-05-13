@@ -1,0 +1,8 @@
+# Compiled Python
+*.pyc
+
+# config files
+*.cfg
+
+# Old editor versions
+*.*~
